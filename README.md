@@ -3,9 +3,9 @@
 Automation Testing 
 Testing:
 - Login 
-  - Set wrong user
+  - Set the wrong user
     - Confirming if the error message shows
-    - Confirming if stays in the login page after the error
+    - Confirming if stays on the login page after the error
   - Set correct user  
  
 - Inventory
